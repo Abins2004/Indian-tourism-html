@@ -1,0 +1,110 @@
+.card>img{
+    height: 100px;
+}
+
+.ind{
+    font: size 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(235, 94, 18);
+}
+.ind1{
+    font: size 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(17, 6, 135);
+    padding: left 1px; ;
+    /* background-color: rgb(230, 248, 248) */
+    margin:0 ;
+}
+.ind2{
+    font: size 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(14, 152, 16);
+}
+body {
+    background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirL3KAhHdH4YjuJbiZO6NBNW39pYfYhrMgAp396UM0RDy2G8CKpb-4MtcV91QtHe843VChjEaSV6ik8_ipwhEp-BkWxVRQaoivgxvHaTMrkas1KJpeTFdyD_KAsKCkVIunRLn-niPiA6BAZEgWgCiKJdWIyDta1-RSorDL0Ojk3OAqPB5ki8OdtSbCrA/d/indian-wallpaper-pc-4k.png) no-repeat center center fixed;
+    background-size: cover; /* Ensures the image covers the entire body */
+    
+  
+    
+}
+
+nav {
+    background-color: transparent;
+    box-shadow: 0px 0px 20px;
+    color:black;
+}
+.kerala{
+     background: url(Untitled\ design.png) no-repeat center center fixed;
+    background-size: cover;
+    
+    
+}
+.par{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: larger;
+    color: rgb(244, 247, 249);
+    justify-content: center;
+    align-items: center;
+    /*padding-left: 20%;*/
+    text-align: center;
+    padding-top: 5%;
+
+
+}
+.states{
+    background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirL3KAhHdH4YjuJbiZO6NBNW39pYfYhrMgAp396UM0RDy2G8CKpb-4MtcV91QtHe843VChjEaSV6ik8_ipwhEp-BkWxVRQaoivgxvHaTMrkas1KJpeTFdyD_KAsKCkVIunRLn-niPiA6BAZEgWgCiKJdWIyDta1-RSorDL0Ojk3OAqPB5ki8OdtSbCrA/d/indian-wallpaper-pc-4k.png) no-repeat center center fixed;
+    background-size: cover; /* Ensures the image covers the entire body */
+
+}
+.wb{
+    background: url(wb.png) no-repeat center center fixed;
+    background-size: cover;
+    
+}
+.raj{
+    background: url(rj.png) no-repeat center center fixed;
+    background-size: cover;
+    
+}
+.uttar{
+    background: url(uk.png) no-repeat center center fixed;
+    background-size: cover;
+}
+.sik{
+    background: url(sik.png) no-repeat center center fixed;
+    background-size: cover;
+}
+.ass{
+    background: url(ass.png) no-repeat center center fixed;
+    background-size: cover;
+}
+.nag{
+    background: url(nag.png) no-repeat center center fixed;
+    background-size: cover;
+}
+.g{
+    background: url(goa.png) no-repeat center center fixed;
+    background-size: cover;
+}
+.c{
+    background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirL3KAhHdH4YjuJbiZO6NBNW39pYfYhrMgAp396UM0RDy2G8CKpb-4MtcV91QtHe843VChjEaSV6ik8_ipwhEp-BkWxVRQaoivgxvHaTMrkas1KJpeTFdyD_KAsKCkVIunRLn-niPiA6BAZEgWgCiKJdWIyDta1-RSorDL0Ojk3OAqPB5ki8OdtSbCrA/d/indian-wallpaper-pc-4k.png) no-repeat center center fixed;
+    background-size: cover; /* Ensures the image covers the entire body */
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.abt{
+    background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirL3KAhHdH4YjuJbiZO6NBNW39pYfYhrMgAp396UM0RDy2G8CKpb-4MtcV91QtHe843VChjEaSV6ik8_ipwhEp-BkWxVRQaoivgxvHaTMrkas1KJpeTFdyD_KAsKCkVIunRLn-niPiA6BAZEgWgCiKJdWIyDta1-RSorDL0Ojk3OAqPB5ki8OdtSbCrA/d/indian-wallpaper-pc-4k.png) no-repeat center center fixed;
+    background-size: cover; /* Ensures the image covers the entire body */
+    color: aliceblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.card{
+    height: 30vh;
+}
+.card:hover{
+    transition: 1s;
+    color: rgb(245, 18, 75);
+    scale: 102%;
+}
